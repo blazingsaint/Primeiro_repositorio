@@ -1,1 +1,6 @@
-#primeiro repositorio :)
+# primeiro repositorio :)
+
+Projeto Básico de Python.
+
+
+
