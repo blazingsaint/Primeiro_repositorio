@@ -1,4 +1,5 @@
-Random dice game in python.
+Random dice game 
+
 
 
 
